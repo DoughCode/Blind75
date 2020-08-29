@@ -1,5 +1,5 @@
 # Blind 75
-Based Leetcode God @Tommy2016x gave me this to refresh on some common problems and patterns. 
+Based LeetMaster @Tommy2016x gave me this to refresh on some common problems and patterns. 
 
 
 ## Array
