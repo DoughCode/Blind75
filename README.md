@@ -1,5 +1,5 @@
 # Blind75
-Coding Solutions to the Blind75 
+Based Leetcode God @Tommy2016x gave me this to refresh on some common problems and patterns. 
 
 
 ## Array
